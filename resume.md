@@ -99,9 +99,3 @@ Sept 2007 - June 2011
 > Reading, writing, urban hiking, painting, TV/movies, cooking, comedy, escape rooms, board games, corgis, traveling
 
 
-<style>
-    body {
-        color: #7955C6;
-        background-color: black;
-    }
-</style>
